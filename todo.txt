@@ -1,0 +1,4 @@
+Publish
+    Assing domain name
+
+Add svelte to rollup work experience
